@@ -1,9 +1,9 @@
-# Language-Survey
+# Mr. Roboger's Neighborhood
 
 ### Authored-by: Teddy Atkinson
 
 ## General Info:
-This is my language survey selection Webpage. Take a short 5 question survey to figure out what programing language to start learning.
+This is a webpage to output a sentence from Mr. Roboger. User inputs a number and the output is given in an array filled in with an if statement to replace numbers containing 1,2,3
 ## Technologies Used:
 * HTML
 * CSS
@@ -17,7 +17,7 @@ This is my language survey selection Webpage. Take a short 5 question survey to 
 None
 
 ## Link to Repository
-[Language-Survey](https://github.com/TeddyAtkinson/Language-Survey)
+[Mr. Roboger's Neighborhood](https://github.com/TeddyAtkinson/Language-Survey)
 
 Description: addeventlistener
 Test: hide result information on load and submit
